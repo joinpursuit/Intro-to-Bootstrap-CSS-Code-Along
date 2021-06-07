@@ -91,7 +91,7 @@ Next, in the img inside of that div, add the class `img-fluid` - this will also 
 
 ## Just Restocked
 
-Move down to the `div` that contains the `h3` that reads `On Sale Now` and add the class `container` - When the width is below a certain amount of pixels, the display will be a wider percentage, when the browser is wider, there will be more space around the sides of the container.
+Move down to the `div` that contains the `h3` that reads `Just Restocked` and add the class `container` - When the width is below a certain amount of pixels, the display will be a wider percentage, when the browser is wider, there will be more space around the sides of the container.
 
 Let's add a class to the `h3` to style it more as a display. Generally, text on a web page serves two purposes - as a title/display eye-catching part of the page, or as text that is meant for easy reading. Adding the class `display-4` will increase the size of the font of the `h3`
 
